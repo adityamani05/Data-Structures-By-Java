@@ -1,3 +1,4 @@
+// Patterns In java * pattern
 import static java.lang.System.*;
 class Abc 
 {
