@@ -1,3 +1,4 @@
+// Selection sort in java
 class SelectionSort
 {
 	int [] arr ={11,2,33,6,1,4,18,2,54,32,65,224,42};
