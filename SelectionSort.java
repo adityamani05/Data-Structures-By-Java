@@ -21,6 +21,7 @@ class SelectionSort
 			printArr();	
 		}
 	}
+	// print the elements present in array
 	public void printArr()
 	{
 		for(int i=0;i<arr.length;i++)
